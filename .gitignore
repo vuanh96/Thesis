@@ -30,5 +30,6 @@ venv.bak/
 .spyproject
 
 # Data
-data/
+data/MOT17/
+data/VOCdevkit/
 weights/
